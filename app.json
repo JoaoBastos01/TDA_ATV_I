@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Trabalho I",
+    "slug": "trabalho-i",
+    "scheme": "trabalhoi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router"
+    ],
+    "web": {
+      "bundler": "metro",
+      "output": "single"
+    }
+  }
+}
